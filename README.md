@@ -1,4 +1,4 @@
-# Gettinga and Cleaning Data - Course Project
+# Getting and Cleaning Data - Course Project
 
 This repository contains solution to course project required by 'Getting and cleaning data' course on Coursera. 
 
@@ -11,7 +11,7 @@ Code assumes that all the data files are uncompressed and in the same folder.
 
 1) run_analysis.R -  R code that cleans and analyse data
 
-2) avaerage_data.txt  - Tidy data set created at the end of step 5
+2) average_data.txt  - Tidy data set created at the end of step 5
 
 3) CodeBook.md - Describes the variables, the data, and any transformations or work that you performed 
  to clean up the data
